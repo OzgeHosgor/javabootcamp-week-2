@@ -1,0 +1,10 @@
+package classes;
+//Class Nedir? => Gruplama
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

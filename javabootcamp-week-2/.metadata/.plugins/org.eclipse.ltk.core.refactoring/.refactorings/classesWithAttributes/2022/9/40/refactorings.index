@@ -1,0 +1,12 @@
+1664364971331	Delete element
+1664365016484	Copy compilation unit
+1664365025359	Delete element
+1664368364927	Encapsulate field '_name'
+1664368493782	Encapsulate field '_name'
+1664368515153	Encapsulate field '_description'
+1664368526441	Encapsulate field '_price'
+1664368534384	Encapsulate field '_stockAmount'
+1664368543330	Encapsulate field '_renk'
+1664368555305	Encapsulate field '_kod'
+1664369478825	Encapsulate field 'setStockAmount'
+1664369690171	Encapsulate field 'setPrice'

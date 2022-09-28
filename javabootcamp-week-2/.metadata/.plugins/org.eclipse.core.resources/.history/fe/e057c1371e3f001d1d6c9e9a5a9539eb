@@ -1,0 +1,18 @@
+package classes;
+//Class Nedir? => Gruplama
+
+
+public class Main {
+
+	public static void main(String[] args) {
+//		class'lar referans type
+		CustomerMenager customerManager = new CustomerMenager();
+		CustomerMenager customerMenager2 = new CustomerMenager();
+		customerManager=customerMenager2;
+		customerManager.Add();
+		customerManager.Remove();
+		customerManager.Update();
+		
+	}
+
+}

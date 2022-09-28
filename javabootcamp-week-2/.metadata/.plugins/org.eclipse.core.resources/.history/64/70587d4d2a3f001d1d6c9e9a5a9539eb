@@ -1,0 +1,25 @@
+
+public class Product {
+	
+	//attribute ya da field
+	private int _id;
+	private String _name;
+	private String _description;
+	private double _price;
+	private int _stockAmount;
+	private String _renk;
+	private String _kod;
+	
+	//yukarıda gizlediğimiz değeleri okuyabilmek için aşağıdaki dizilim kullanılır.
+	//Aşağıdaki bloğa "GETTER" denir	
+	public int getId() {
+		return _id;
+	}
+	
+	//Aşağıdaki bloğa "SETTER" denir
+	public void setId(int id) {
+		_id=id;
+	}
+	}
+	
+
